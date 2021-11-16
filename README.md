@@ -1,6 +1,6 @@
 ### Hi 👋, Meu nome Kelvin Bruno Monteiro
 #### Sou estudante de desenvolvimento Front-end e jogos educacionais.
-Sou Graduando em Análise e Desenvolvimento de Sistemas e Produção Multimídia. Atualmente sou Trainee em Front End e Desenvolvimentos de Games na iDEV. DJ nas horas vagas.
+Sou Graduado em Produção Multimídia. Atualmente sou Front End Angular na Enuves Technologies. DJ nas horas vagas.
 
 Skills:  JS / HTML / CSS / C# / UNITY
 
