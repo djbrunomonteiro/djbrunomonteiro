@@ -2,7 +2,7 @@
 #### Sou Desenvolvedor Front-end Angular 2+ na [Enuves Technologies](https://www.enuves.com/) .
 Sou Graduado em Produção Multimídia. DJ nas horas vagas.
 
-Skills:  HTML / CSS / JS / TYPESCRIPT/ ANGULAR 2+ 
+Skills:  HTML / CSS / JS / TYPESCRIPT/ ANGULAR 2+ / IONIC
 
 Estudando: Teste Unitário / NGRX
 
